@@ -7,7 +7,7 @@ public class Cave {
 	public List<Direction> caveDirections;
 
 	public String getName() {
-		return "Cave 1";
+		return "Cave 1a";
 	}
 
 }
